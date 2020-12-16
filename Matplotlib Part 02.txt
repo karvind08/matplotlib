@@ -1,0 +1,166 @@
+Topics Covered in this lecture:
+
+1. Matplotlib installation on Windows 10
+
+Python Programming Classes by Arvind Kharwal
+https://www.youtube.com/watch?v=uXcHsZtOfik&list=PLrwo9h9hEZSVwd5mLcAqnkxEK9oNSKmeI
+
+Introduction To Matplotlib | Part 01
+https://www.youtube.com/watch?v=m6Ma5wc5GUA
+
+Bound Checking In Array | Array In C Programming - Part 13
+https://www.youtube.com/watch?v=3CDAD0vCvns
+
+Symmetric Matrix | Array In C Programming - Part 12
+https://www.youtube.com/watch?v=XmTa-aJ8Nd0
+
+Transpose Of A Matrix | Array In C Programming Part 11
+https://www.youtube.com/watch?v=sszaylTl8uQ
+
+Matrix Multiplication | Array In C Programming Part 10
+https://youtu.be/vm7u_xZuVSk
+
+Random Numbers In Numpy | Numpy - Part 21
+https://www.youtube.com/watch?v=qZcSlzf2yaA
+
+Biggest Element In Matrix | Array In C Programming Part 09
+https://www.youtube.com/watch?v=mES6XxKiJZs
+
+Addition Of Two Matrices | Array In C Programming Part 08
+https://www.youtube.com/watch?v=o-4IrIsVVAk
+
+2 Dimensional Array | Array In C Programming - Part 07
+https://www.youtube.com/watch?v=rRCN_KP6LIs
+
+Array In C Programming | Array Programs - Part 06
+https://www.youtube.com/watch?v=dI6MkEqo3Cw
+
+Array In C Programming | Array Programs - Part 05
+https://www.youtube.com/watch?v=MDVn-PoMQa4
+
+Array In C Programming | Array Programs - Part 04
+https://www.youtube.com/watch?v=qXuo42zR3y0
+
+Array In C Programming | Array Programs - Part 03
+https://www.youtube.com/watch?v=7GAGlj5Vo3Q
+
+Why do we need an Array | Array in C Programming - Part 02
+https://www.youtube.com/watch?v=qnGLXTTTiIs
+
+Introduction to Array | Array in C Programming | Part 01
+https://www.youtube.com/watch?v=L-v8WWFg5dw
+
+Numpy Part 20 | Indexing & Slicing
+https://www.youtube.com/watch?v=ihJbHs-0rkA
+
+Numpy Part 19 | Difference between range and arange function
+https://www.youtube.com/watch?v=PBuLpdNR0qI
+
+Numpy Part 18 | arange() Function
+https://www.youtube.com/watch?v=Q7RWEfUTi0A
+
+Numpy Part 17 | arange() Function
+https://www.youtube.com/watch?v=dS2Lf4ml35I
+
+Numpy Part 16 | ones() Function
+https://www.youtube.com/watch?v=jx9yAmaudr4
+
+Numpy Part 15 | zeros() Function
+https://www.youtube.com/watch?v=aC-HVF0C9qY
+
+Numpy Part 14 | Empty Function
+https://www.youtube.com/watch?v=ry63Daz3V7I
+
+Numpy Part 13 | Logarithmic Function
+https://www.youtube.com/watch?v=LxnK9W27kfg
+
+Numpy Part 12 | ravel function
+https://www.youtube.com/watch?v=ovdqOTBym5U
+
+Numpy Part 11 | Exponential Function
+https://www.youtube.com/watch?v=2nzgY2--AsQ
+
+Numpy Part 10 | Vertical & Horizontal Stacking
+https://www.youtube.com/watch?v=HUNDesVvOck
+
+Numpy Part 08 | std() function
+https://www.youtube.com/watch?v=jsB9PgBBRQE
+
+Numpy Part 08 | sqrt() function
+https://www.youtube.com/watch?v=A_WywxFSAo4
+
+Numpy Part 07 | Aritmetic Operations on numpy arrays
+https://www.youtube.com/watch?v=hSuzYxZSk8Y
+
+Numpy Part 06 | Numpy Operations
+https://www.youtube.com/watch?v=qbXTMDk-rxQ
+
+Numpy Part 05 | Numpy Operations
+https://www.youtube.com/watch?v=PVpMDy0RtFc
+
+Numpy Part 04 | Numpy Operations
+https://www.youtube.com/watch?v=f_BX3yII7i4
+
+Numpy Part 03 | Numpy Operations
+https://www.youtube.com/watch?v=T5QFjB31b7U
+
+Numpy Part 02 | Numpy Operations
+https://www.youtube.com/watch?v=o4N4oRkN88E
+
+Conditional Compilation in C Programming Part 04
+https://www.youtube.com/watch?v=K9G_6kgKHH4
+
+Conditional Compilation in C Programming Part 03
+https://www.youtube.com/watch?v=_UfP1hRf60Y
+
+Conditional Compilation in C Programming Part 02
+https://www.youtube.com/watch?v=TK3WaQ1psIM
+
+Conditional Compilation in C Programming | Part 01
+https://www.youtube.com/watch?v=k7raVo2ONRU
+
+String in Alphabetical Order | String in C Programming Part 11
+https://www.youtube.com/watch?v=Zegf_Bik_f8
+
+Count Vowels & Consonants in String | String in C Programming Part 10
+https://www.youtube.com/watch?v=zXKdEgnAqYU
+
+Palindrome String | String in C Programming Part 09
+https://www.youtube.com/watch?v=gA9hQwL80yw
+
+Reverse the String | String in C Programming Part 08
+https://www.youtube.com/watch?v=lISu3-t7_h8
+
+String Concatenation | String in C Programming Part 07
+https://www.youtube.com/watch?v=-DoezwrJhWY
+
+Convert upper case string to lower case string | String in C Programming Part 06
+https://www.youtube.com/watch?v=uQM7wErSBPk
+
+Convert lower case string to upper case string | String in C Programming Part 05
+https://www.youtube.com/watch?v=W4xewHzehng
+
+Copy String | String in C Programming | Part 04
+https://www.youtube.com/watch?v=w5c_Kyw0s0o
+
+Length of a String in C Programming | Part 03
+https://www.youtube.com/watch?v=MGd8aQ9aUL8
+
+Introduction to Numpy
+https://www.youtube.com/watch?v=X7ycNxW6lrc
+
+String in C Programming | Part 02
+https://www.youtube.com/watch?v=dK_6jNbejDs
+
+Structure in C Programming | Part 03
+https://www.youtube.com/watch?v=fiQkqKDUz5c
+
+Structure in C Programming Part 02
+https://www.youtube.com/watch?v=cv9QX4I4xCY
+
+Structure in C Programming | Part 01
+https://www.youtube.com/watch?v=_HqGGI7H__g
+
+Macros in C Programming
+https://www.youtube.com/watch?v=uvk1ccN-7TY
+

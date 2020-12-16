@@ -1,0 +1,213 @@
+Topics Covered in this lecture:
+
+1. First Plot in Matplotlib
+
+Python Programming Classes by Arvind Kharwal
+https://www.youtube.com/watch?v=uXcHsZtOfik&list=PLrwo9h9hEZSVwd5mLcAqnkxEK9oNSKmeI
+
+Facts about enumeration in C Programming
+https://youtu.be/y3Q7d6HlRNI
+
+Enumeration in C Programming
+https://youtu.be/MUbPcaWLT_o
+
+Selection Sort in C Programming
+https://youtu.be/8d-oyTiWp9c
+
+Insertion Sort in C Programming
+https://youtu.be/gNrzQLFvyi8
+
+Bubble Sort in C Programming
+https://youtu.be/m9zlkoSwzTc
+
+Introduction to Sorting in C Programming
+https://youtu.be/inWtrI5oiYk
+
+Generic Pointer in C Programming
+https://youtu.be/d8MeswVyzoY
+
+Dangling Pointer in C Programming
+https://youtu.be/Tb6HKywGQgo
+
+Wild Pointer in C Programming
+https://youtu.be/qCwVDE4u0Ek
+
+Null Pointer in C Programming
+https://youtu.be/q5DSyS7cJQg
+
+Linear Search in C Programming
+https://youtu.be/laDlylKBGRA
+
+Advantages & Disadvantages of Union in C Programming
+https://youtu.be/xY6hjHfXq3Y
+
+Introduction to Union in C Programming
+https://youtu.be/9Kz8CtspLGo
+
+Calculator - Menu Driven Program using Switch Case in C Programming
+https://youtu.be/XGq-Q8jj5iQ
+
+Char Expression in Switch Case
+https://youtu.be/426iB6PY3LY
+
+Advantages & Disadvantages of Switch Case in C Programming
+https://youtu.be/tThYXWS7vGY
+
+Tips & Traps of Switch case in C Programming
+https://youtu.be/0pgS8IK8QXE
+
+Break Statement in Switch Case
+https://youtu.be/dU9r58X5-Cw
+
+Introduction to Switch Case In C Programming
+https://youtu.be/p5FfeYicWSk
+
+Type Casting In C Programming
+https://www.youtube.com/watch?v=URccwY1CjXw
+
+C Program to find out cost price of one item
+https://youtu.be/AH1kP-u-20M
+
+The Power Function In C Programming
+https://youtu.be/bVdymHjnyr0
+
+Reverse of a five digits number
+https://youtu.be/OpYHliSWG0g
+
+Sum of digits of a five Digit Number
+https://youtu.be/ribhMjarWpc
+
+Sum of First and Last Digit of a 5 Digits Number
+https://youtu.be/mI0QmjRv75c
+
+C Program to swap two numbers without using temporary variable
+https://youtu.be/b2eSG-Chz0g
+
+C Program to Swap Two Numbers using Temporary Variable
+https://youtu.be/QtWyAwSr2Dg
+
+C Program To Convert Temperature From Fahrenheit To Centigrade
+https://youtu.be/sJkkcKW6ReU
+
+C Program to find out gross salary of an employee
+https://youtu.be/n5qEce0_iGk
+
+C Program To Find Out Area Of Rectangle
+https://youtu.be/HfHG2iD9bnI
+
+C Program to find out area of circle
+https://youtu.be/ofwTQIw13rA
+
+Addition of two numbers in C Programming
+https://youtu.be/HyQG9I54_Uw
+
+Input through keyboard or user in C Programming
+https://youtu.be/abhPtWF-Pi4
+
+Sum of two Integer Numbers In C Programming
+https://youtu.be/GCe3atO-bNQ
+
+Print Integer, Float & Character In C Programming
+https://youtu.be/02j2vArctQ4
+
+Create User Defined Header file In C Programming
+https://youtu.be/3Gaor0fX6O0
+
+Header files In C Programming
+https://youtu.be/6v3FD71IWg0
+
+The First Program in C Programming
+https://youtu.be/A4G63hKA3ns
+
+Install Turbo C++ On Windows 10
+https://youtu.be/dxGBxRhnrfI
+
+Memory Map of C Programming
+https://youtu.be/JIOVO-XPr60
+
+C Programming Rules
+https://youtu.be/YK6vtDIvElc
+
+Structure of C Program
+https://youtu.be/MyQ1KQCFbc0
+
+Data Types in C Programming
+https://www.youtube.com/watch?v=pWY6lEoltes
+
+Control Instructions In C Programming
+https://youtu.be/3wiagv8cjUM
+
+Arithmetic Instructions In C Programming
+https://youtu.be/oeAnfRCKOtQ
+
+Modulus Operator in C Programming
+https://youtu.be/PJhgAxBYsRw
+
+Arithmetic Operators In C Programming
+https://youtu.be/W_cto_ZWIJI
+
+Type Declaration Instructions In C Programming
+https://youtu.be/8Fqy4A6-wfs
+
+Instructions In C Programming
+https://youtu.be/gd6otseeMs0
+
+Keywords in C Programming
+https://youtu.be/8Sws7uXJaV8
+
+Variables In C Programming
+https://youtu.be/yDkTXKKXi1U
+
+Character Constants In C Programming
+https://www.youtube.com/watch?v=1lQ043PPmbE
+
+Real Constants In C Programming
+https://youtu.be/dcAc_LVXLiU
+
+Integer Constants In C Programming
+https://youtu.be/NeZfqljGy-g
+
+Constants In C Programming
+https://youtu.be/rE5CMQDEzDU
+
+Steps to learn C Programming
+https://youtu.be/hlNJKDq_0lE
+
+History Of C Programming
+https://youtu.be/wR9B4HQKIDg
+
+Const Qualifier In C Programming
+https://youtu.be/FPnueSosZlM
+
+Mixed Mode Expressions In C Programming
+https://youtu.be/wF23Q10YAjE
+
+Sizeof Operator In C Programming
+https://youtu.be/BJbq9pWOwrU
+
+Leap Year Using Logical Operators In C Programming
+https://youtu.be/kRjprN_kCbM
+
+Leap Year using Nested If-Else In C Programming
+https://www.youtube.com/watch?v=7wtn6kJkfI8
+
+Shorthand Assignment Operators In C Programming
+https://youtu.be/GazZrksJozo
+
+Logical Instructions in C Programming
+https://youtu.be/CE8cv-QBQkA
+
+Logical Operators In C Programming
+https://youtu.be/PbyQXYX1QFU
+
+Conditional Or Ternary Operator In C Programming
+https://youtu.be/dIjuSftf40o
+
+Else If Ladder In C Programming
+https://youtu.be/M1bar1J--ow
+
+Nested if-else In C Programming
+https://youtu.be/6MWFpIz3cr0
+
+If Else Statement In C Programming
+https://youtu.be/DeRO1SBFyVo
